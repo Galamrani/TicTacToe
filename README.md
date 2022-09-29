@@ -8,9 +8,9 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written 
 ----- need to add ----
 
 ## About the game
-The game is played on a 3 × 3 grid. 
-The AI player will play the first turn.
-The players take turns placing a mark in one of the available cells of the grid, until the grid is full and there is no winner 
+The game is played on a 3 × 3 grid.  
+  The AI player will play the first turn.  
+    The players take turns placing a mark in one of the available cells of the grid, until the grid is full and there is no winner 
 or one of the players position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
 
 ## MiniMax Algorithm
