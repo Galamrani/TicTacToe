@@ -2,9 +2,14 @@
 Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written in C#, using WPF for a responsive UI with animations.
 
 ## How the game looks like 
+----- player X = AI player,  player O = User player ----  
+  
+<img src="Screenshots/Screenshot (1).png" width = "320">
+<img src="Screenshots/Screenshot (2).png" width = "320">
+<img src="Screenshots/Screenshot (3).png" width = "320">
+<img src="Screenshots/Screenshot (4).png" width = "320">
+<img src="Screenshots/Screenshot (5).png" width = "320">
 
-<img src="Screenshots/Screenshot (1).png" width = "350">
------ need to add ----
 
 ## How to download
 ----- need to add ----
