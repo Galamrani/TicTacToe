@@ -3,7 +3,7 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written 
 
 ## How the game looks like 
 
-<img src="Screenshots/Screenshot (1).png" width = "100">
+<img src="Screenshots/Screenshot (1).png" width = "350">
 ----- need to add ----
 
 ## How to download
