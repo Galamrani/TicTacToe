@@ -6,11 +6,13 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written 
 - player O -->  User player 
   
 <p float="left">
-  <img src="Screenshots/Screenshot (3).png" width = "300" />
-  <img src="Screenshots/Screenshot (4).png" width = "300" />
-  <img src="Screenshots/Screenshot (5).png" width = "300" />
+  <img src="Screenshots/Screenshot (3).png" width = "350" />
+  <img src="Screenshots/Screenshot (4).png" width = "350" />
+  <img src="Screenshots/Screenshot (5).png" width = "350" />
 </p>
-
+  
+    
+      
 
 https://user-images.githubusercontent.com/97801269/193058864-6613da87-c5c7-4d60-bdd7-cbe71b4a6fdb.mp4
 
