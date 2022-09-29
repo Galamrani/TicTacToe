@@ -5,11 +5,11 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written 
 ----- player X = AI player,  player O = User player ----  
   
 <p float="left">
-  <img src="Screenshots/Screenshot (1).png" width = "250" />
-  <img src="Screenshots/Screenshot (2).png" width = "250" />
-  <img src="Screenshots/Screenshot (3).png" width = "250" />
-  <img src="Screenshots/Screenshot (4).png" width = "250" />
-  <img src="Screenshots/Screenshot (5).png" width = "250" />
+  <img src="Screenshots/Screenshot (1).png" width = "200" />
+  <img src="Screenshots/Screenshot (2).png" width = "200" />
+  <img src="Screenshots/Screenshot (3).png" width = "200" />
+  <img src="Screenshots/Screenshot (4).png" width = "200" />
+  <img src="Screenshots/Screenshot (5).png" width = "200" />
 </p>
   
   
