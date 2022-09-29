@@ -11,7 +11,7 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written 
   <img src="Screenshots/Screenshot (5).png" width = "320" />
 </p>
 
-https://user-images.githubusercontent.com/97801269/193064173-fce3f3f2-8fe9-4233-ac32-97639ea0e5a5.mp4
+https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-b469-98aef1e8b5bc.mp4
 
 ## How to download
 ----- need to add ----
