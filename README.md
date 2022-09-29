@@ -10,10 +10,8 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm , written 
   <img src="Screenshots/Screenshot (4).png" width = "300" />
   <img src="Screenshots/Screenshot (5).png" width = "300" />
 </p>
-  
-<video width="320" height="240" controls>
-  <source src="Tic Tac Toe 2022-09-29 16-59-56.mp4" type="video/mp4">
-</video>
+
+
 
 
 ## How to download
