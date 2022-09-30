@@ -37,10 +37,10 @@ The AI player in the game is implemented by the MiniMax algorithm.
 #### some extra features :  
   
 *  Shortest route - a depth variable that keeps track of how deep we are in the game tree.  
-     the depth variable is taken under consideration when making an evaluacion between a parent node and his two sons 
+     the depth variable is taken under consideration when making an evaluacion between a parent node and his two children's 
        so even if the user player is not playing optimally the AI player will still play in an optimal way and look for the fastest way to win.  
          
 
-*  Alpha-Beta pruning - an optimization technique for the minimax algorithm, it reduces the computation time by a huge factor, which allows us to search much faster and even go into deeper levels in the game tree.  
-       it cuts off branches in the game tree which can be ignored because there already exists a better move available.  
+*  Alpha-Beta pruning - an optimization technique for the MiniMax algorithm, it reduces the computation time by a huge factor, which allows us to search much faster and even go into deeper levels in the game tree.  
+       it cuts off branches in the game tree which can be ignored, because there already exists a better move available.  
           as a result, the computation time reduces by a big and impactful factor.
