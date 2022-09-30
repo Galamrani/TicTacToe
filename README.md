@@ -19,9 +19,8 @@ https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-
 
 ## About the game
 The game is played on a 3 × 3 grid.  
-  The AI player will play the first turn.  
-    The players take turns placing a mark in one of the available cells of the grid, until the grid is full and there is no winner 
-or one of the players position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
+  Players take turns placing a mark in one of the cells of the grid.  
+    The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
 
 ## MiniMax algorithm
 The MiniMax algorithm used in decision making, game theory and artificial intelligence (AI).  
