@@ -33,7 +33,7 @@ The MiniMax algorithm is used in decision-making, game theory and artificial int
  </sub> 
 
 
-#### I added to the algorithm some extra features :  
+#### some extra features :  
   
 *  Shortest route - a depth variable that keeps track of how deep we are in the game tree.  
      the depth variable is taken under consideration when making an evaluacion between a parent node and his two sons 
