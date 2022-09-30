@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-
 The game is played on a 3 × 3 grid.  
   Players take turns placing a mark in one of the cells of the grid.  
     The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
+      The AI player will always play the first turn for a more challenging game.
 
 ## MiniMax algorithm
 The AI player in the game is implemented by the MiniMax algorithm.  
