@@ -26,9 +26,9 @@ The game is played on a 3 × 3 grid.
 The MiniMax algorithm used in decision making, game theory and artificial intelligence (AI).  
   It is used to find the optimal move for a player, assuming that the opponent is also playing optimally.  
     In the context of the game we will see the AI Player blocking the User Player if necessary or making the best move for a winning opportunity.
-      
-        for better understanding of the algorithm use those links
-        <sub> 
+             
+  <sub> 
+  for better understanding of the algorithm use those links
 [Article about MiniMax ](https://www.neverstopbuilding.com/blog/minimax)  
   [Video about MiniMax ](https://www.youtube.com/watch?v=l-hh51ncgDI&t=553s)
  </sub> 
