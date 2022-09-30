@@ -29,11 +29,9 @@ The MiniMax algorithm is used in decision-making, game theory and artificial int
     In the context of the game, we will see the AI Player blocking the User Player if necessary or making the best move for a winning opportunity. 
  <sub>
   for a better understanding of the MiniMax algorithm use those links :  
-   [Article about MiniMax ](https://www.neverstopbuilding.com/blog/minimax)  
-   [Video about MiniMax ](https://www.youtube.com/watch?v=l-hh51ncgDI&t=553s)
+   [Article about MiniMax ](https://www.neverstopbuilding.com/blog/minimax) , [Video about MiniMax ](https://www.youtube.com/watch?v=l-hh51ncgDI&t=553s)
  </sub> 
 
----- need to fix the features explanation ---
 
 #### I added to the algorithm some extra features :  
   
