@@ -24,7 +24,8 @@ The game is played on a 3 × 3 grid.
     The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
 
 ## MiniMax algorithm
-The MiniMax algorithm is used in decision-making, game theory and artificial intelligence (AI).  
+The AI player is implemented by the MiniMax algorithm in the game.  
+  The MiniMax algorithm is used in decision-making, game theory and artificial intelligence (AI).  
   It is used to find the optimal move for a player, assuming that the opponent is also playing optimally.  
     In the context of the game, we will see the AI Player blocking the User Player if necessary or making the best move for a winning opportunity. 
  <sub>
