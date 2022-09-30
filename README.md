@@ -42,4 +42,5 @@ The MiniMax algorithm is used in decision-making, game theory and artificial int
        so even if the user player is not playing optimally the AI player will still play in an optimal way and look for the fastest way to win.
 
 2. Alpha-Beta pruning - an optimization technique for the minimax algorithm, it reduces the computation time by a huge factor, which allows us to search much faster and even go into deeper levels in the game tree.  
-        it cuts off branches in the game tree which can be ignored, because there already exists a better move available, as a result, it reduces the computation time. 
+       it cuts off branches in the game tree which can be ignored because there already exists a better move available.  
+          as a result, the computation time reduces by a big and impactful factor.
