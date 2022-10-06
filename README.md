@@ -15,9 +15,9 @@ Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm, written i
 
 https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-b469-98aef1e8b5bc.mp4
 
-## How to download
------ need to add ----
-
+## For download
+[Click here](https://github.com/Galamrani/Tic-Tac-Toe-Game/releases)  
+  
 ## About the game
 The game is played on a 3 × 3 grid.  
   Players take turns placing a mark in one of the cells of the grid.  
