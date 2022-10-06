@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-
 
 ## Download
 WPF is only available on Windows, so the game can run only on Windows machines.  
-  You can download the game from the release sanction or just [Click here](https://github.com/Galamrani/Tic-Tac-Toe-Game/releases)
+  You can download the game from the release sanction or just [click here](https://github.com/Galamrani/Tic-Tac-Toe-Game/releases)
   
   
 ## About the game
