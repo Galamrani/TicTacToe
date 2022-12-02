@@ -1,9 +1,9 @@
 # Tic-Tac-Toe-Game
-Tic-Tac-Toe game with unbeatable AI, implemented by MiniMax algorithm, written in C#, using WPF for a responsive UI with animations.
+Tic-Tac-Toe game with unbeatable computer opponent, implemented by MiniMax algorithm, written in C#, using WPF for a responsive UI with animations.
 
 
 ## How the game looks like 
-- player X -->  AI player  
+- player X -->  Computer player  
 - player O -->  User player 
  
   
@@ -23,14 +23,14 @@ WPF is only available on Windows, so the game can run only on Windows machines.
 ## About the game
 The game is played on a 3 × 3 grid.  
   Players take turns placing a mark in one of the cells of the grid.  
-    The AI player will always play the first turn.  
+    The computer player will always play the first turn.  
       The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.  
 
 ## MiniMax algorithm
-The AI player in the game is implemented by the MiniMax algorithm.  
+The computer player in the game is implemented by the MiniMax algorithm.  
   The MiniMax algorithm is used in decision-making, game theory and artificial intelligence (AI).  
   It is used to find the optimal move for a player, assuming that the opponent is also playing optimally.  
-    In the context of the game, we will see the AI Player blocking the User Player if necessary or making the best move for a winning opportunity.  
+    In the context of the game, we will see the computer Player blocking the User Player if necessary or making the best move for a winning opportunity.  
       <sub>
   for a better understanding of the MiniMax algorithm use those links : &emsp;[Article about MiniMax ](https://www.neverstopbuilding.com/blog/minimax), &ensp;[Video about MiniMax ](https://www.youtube.com/watch?v=l-hh51ncgDI&t=553s)
 
@@ -41,7 +41,7 @@ The AI player in the game is implemented by the MiniMax algorithm.
   
 *  Shortest route - a depth variable that keeps track of how deep we are in the game tree.  
      the depth variable is taken under consideration when making an evaluacion between a parent node and his two children's 
-       so even if the user player is not playing optimally the AI player will still play in an optimal way and look for the fastest way to win.  
+       so even if the user player is not playing optimally the computer player will still play in an optimal way and look for the fastest way to win.  
          
 
 *  Alpha-Beta pruning - an optimization technique for the MiniMax algorithm, it reduces the computation time by a huge factor, which allows us to search much faster and even go into deeper levels in the game tree.  
