@@ -28,7 +28,7 @@ The game is played on a 3 × 3 grid.
 
 ## MiniMax algorithm
 The computer player in the game is implemented by the MiniMax algorithm.  
-  The MiniMax algorithm is used in decision-making, game theory and artificial intelligence (AI).  
+  The MiniMax algorithm is used in decision-making, game theory.  
   It is used to find the optimal move for a player, assuming that the opponent is also playing optimally.  
     In the context of the game, we will see the computer Player blocking the User Player if necessary or making the best move for a winning opportunity.  
       <sub>
