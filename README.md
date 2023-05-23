@@ -1,12 +1,35 @@
-# Tic-Tac-Toe-Game
-Tic-Tac-Toe game with unbeatable computer opponent, implemented by MiniMax algorithm, written in C#, using WPF for a responsive UI with animations.
+# Tic Tac Toe Game
 
+This is a Tic Tac Toe game with unbeatable computer opponent implemented in C# using WPF for a responsive UI with animations.
 
-## How the game looks like 
-- player X -->  Computer player  
-- player O -->  User player 
- 
-  
+## Description
+
+The project consists of the following classes:
+
+- `AiAlgorithm`: This class implements the AI algorithm for making the best move in the game. It uses the minimax algorithm with alpha-beta pruning to determine the optimal move.
+
+- `GameLogic`: This class handles the game logic, including managing the game grid, current player, turns, and checking for a win or draw.
+
+- `GameResult`: This class represents the result of a game, including the game winner and win information.
+
+- `WinInfo`: This class represents the information about a win, including the winning player and the type of win (row, column, main diagonal, or anti-diagonal).
+
+- `Player`: This enum represents the players in the game (X, O, or None).
+
+- `App`: This is the entry point of the application.
+
+- `MainWindow`: This is the main window of the application, where the game is played. It handles user interactions and displays the game grid.
+
+## How to Play
+
+1. Run the application.
+2. The game starts with Player X.
+3. Click on an empty cell in the grid to make a move.
+4. The game continues until a player wins or the game ends in a draw.
+5. To play again, click the "Play Again" button.
+
+## Screenshots
+
 <p float="left">
   <img src="Screenshots/Screenshot (3).png" width = "32%" />
   <img src="Screenshots/Screenshot (4).png" width = "32%" />
@@ -16,15 +39,13 @@ Tic-Tac-Toe game with unbeatable computer opponent, implemented by MiniMax algor
 https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-b469-98aef1e8b5bc.mp4
 
 ## Download
+
 WPF is only available on Windows, so the game can run only on Windows machines.  
-  You can download the game from the release sanction or just [click here](https://github.com/Galamrani/Tic-Tac-Toe-Game/releases)
-  
-  
-## About the game
-The game is played on a 3 × 3 grid.  
-  Players take turns placing a mark in one of the cells of the grid.  
-    The computer player will always play the first turn.  
-      The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.  
+ You can download the game from the release sanction or just [click here](https://github.com/Galamrani/Tic-Tac-Toe-Game/releases)
+    
+## Computer Opponent Algorithm
+
+The computer opponent algorithm used in this game is the minimax algorithm with alpha-beta pruning. The algorithm recursively explores all possible moves and assigns scores to each move. The computer opponent player (X) chooses the move with the maximum score, while the opponent player (O) chooses the move with the minimum score. The algorithm also uses depth to assign higher scores to moves that lead to a win in fewer turns.
 
 ## MiniMax algorithm
 The computer player in the game is implemented by the MiniMax algorithm.  
@@ -36,9 +57,8 @@ The computer player in the game is implemented by the MiniMax algorithm.
 
  </sub> 
 
-
 #### some extra features :  
-  
+ 
 *  Shortest route - a depth variable that keeps track of how deep we are in the game tree.  
      the depth variable is taken under consideration when making an evaluacion between a parent node and his two children's 
        so even if the user player is not playing optimally the computer player will still play in an optimal way and look for the fastest way to win.  
