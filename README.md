@@ -8,8 +8,9 @@ Tic-Tac-Toe game with unbeatable computer opponent, implemented by MiniMax algor
  
   
 <p float="left">
-  <img src="Screenshots/Simon - 1.png" width = "32%" />
-  <img src="Screenshots/Simon - 2.png" width = "32%" />
+  <img src="Screenshots/Screenshot (3).png" width = "32%" />
+  <img src="Screenshots/Screenshot (4).png" width = "32%" />
+  <img src="Screenshots/Screenshot (5).png" width = "32%" />
 </p>
 
 https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-b469-98aef1e8b5bc.mp4
