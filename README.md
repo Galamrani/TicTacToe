@@ -57,7 +57,7 @@ The computer player in the game is implemented by the MiniMax algorithm.
 
  </sub> 
 
-#### some extra features :  
+#### extra features :  
  
 *  Shortest route - a depth variable that keeps track of how deep we are in the game tree.  
      the depth variable is taken under consideration when making an evaluacion between a parent node and his two children's 
