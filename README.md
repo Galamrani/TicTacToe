@@ -6,7 +6,7 @@ This is a Tic Tac Toe game with unbeatable computer opponent implemented in C# u
 
 The project consists of the following classes:
 
-- `AiAlgorithm`: This class implements the AI algorithm for making the best move in the game. It uses the minimax algorithm with alpha-beta pruning to determine the optimal move.
+- `AiAlgorithm`: This class implements the unbeatable computer opponent algorithm for making the best move in the game. It uses the minimax algorithm with alpha-beta pruning to determine the optimal move.
 
 - `GameLogic`: This class handles the game logic, including managing the game grid, current player, turns, and checking for a win or draw.
 
