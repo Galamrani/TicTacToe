@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This is a Tic Tac Toe game with unbeatable computer opponent implemented in C# using WPF for a responsive UI with animations.
+This is a Tic Tac Toe game with an unbeatable computer opponent implemented in C# using WPF for a responsive UI with animations.
 
 ## Description
 
