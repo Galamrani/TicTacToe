@@ -2,7 +2,7 @@
 
 Welcome to the Tic Tac Toe Game! This C# application features an unbeatable computer opponent implemented in WPF, offering a responsive UI with smooth animations.
 
-## Description
+## Components
 
 The project consists of the following classes:
 
