@@ -1,12 +1,12 @@
 # Tic Tac Toe Game
 
-Welcome to the Tic Tac Toe Game! This C# application features an unbeatable computer opponent implemented in WPF, offering a responsive UI with smooth animations.
+Welcome to the Tic Tac Toe Game! This .NET application features a responsive UI with smooth animations and unbeatable intelligent opponent.
 
 ## Components
 
 The project consists of the following classes:
 
-- `ComputerPlayer`: This class implements the unbeatable computer opponent algorithm for making the best move in the game. It uses the minimax algorithm with alpha-beta pruning to determine the optimal move.
+- `ComputerPlayer`: This class implements the unbeatable intelligent opponent algorithm for making the best move. It uses the minimax algorithm with alpha-beta pruning to determine the optimal move.
 
 - `GameLogic`: This class handles the game logic, including managing the game grid, current player, turns, and checking for a win or draw.
 
@@ -29,11 +29,6 @@ The project consists of the following classes:
 </p>
 
 https://user-images.githubusercontent.com/97801269/193064416-71fbe5d4-2a00-4a01-b469-98aef1e8b5bc.mp4
-
-## Download
-
-Note: The game is compatible only with Windows machines due to its WPF implementation. 
-Download the latest release [click here](https://github.com/Galamrani/Tic-Tac-Toe-Game/releases)
     
 ## Computer Opponent Algorithm
 
